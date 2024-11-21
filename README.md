@@ -4,6 +4,11 @@ Este projeto aplica Deep Learning e Visão Computacional para identificar carreg
 
 ---
 
+## Integrantes
+RM: 553227 - Herbert Santos de Sousa
+RM: 553698 - João Pedro Pereira
+RM: 553643 - Enzo Franco Rocha
+
 ## Objetivo
 Desenvolver um modelo de visão computacional de alta precisão para reconhecimento de carregadores de carros elétricos.
 
