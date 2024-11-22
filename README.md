@@ -5,8 +5,7 @@ Este projeto aplica Deep Learning e Visão Computacional para identificar carreg
 ---
 
 ## Video Apresntação
-
-https://youtu.be/KDt_LCfV6SY
+https://youtu.be/anItmY5qJ_U
 
 ## Integrantes
 RM: 553227 - Herbert Santos de Sousa
