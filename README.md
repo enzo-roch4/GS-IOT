@@ -14,7 +14,7 @@ RM: 553643 - Enzo Franco Rocha
 
 ## Objetivo
 Desenvolver um modelo de visão computacional de alta precisão para reconhecimento de carregadores de carros elétricos.
-Nosso projeto busca auxiliar motoristas de carros elétricos na identificação de pontos de recarga e planejamento de viagens. Usando Deep Learning e Visão Computacional, o objetivo é criar uma solução capaz de identificar carregadores de carros elétricos em imagens, oferecendo suporte para motoristas que precisam encontrar pontos de recarga durante suas viagens. Com futuras atualizações buscamos atualizar os mapas para dar mais opções de pontos de interesse para os usuários.
+Nosso projeto busca auxiliar motoristas de carros elétricos na identificação de pontos de recarga e planejamento de viagens. Usando Deep Learning e Visão Computacional, o objetivo é criar uma solução capaz de identificar carregadores de carros elétricos em imagens, oferecendo suporte para motoristas que precisam encontrar pontos de recarga durante suas viagens. Com futuras atualizações buscamos atualizar os mapas para dar mais opções de pontos de interesse para os usuários. Nosso modelo será implementado nos mapas fornecidos pelo nosso Front-End, atuando de maneira conjunta para a identificação dos “ChargePoints”.
 
 ## Estrutura do Projeto
 
